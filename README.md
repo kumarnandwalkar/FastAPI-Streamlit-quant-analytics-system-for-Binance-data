@@ -213,8 +213,8 @@ AI tools (ChatGPT / GPT-4, Gemini) were used for:
 
 ## Output
 
-![output1](OP1.png)
 ![output2](OP2.png)
+![output1](OP1.png)
 ![output3](OP3.png)
 
 ## 👤 Author
