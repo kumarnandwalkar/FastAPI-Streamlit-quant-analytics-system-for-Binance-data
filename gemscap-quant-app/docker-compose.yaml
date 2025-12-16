@@ -30,6 +30,7 @@ services:
       - "8501:8501"
     environment:
       - DOCKER_ENV=true
+      - BACKEND_URL=http://backend:8000
     depends_on:
       - backend
     restart: unless-stopped
